@@ -61,4 +61,4 @@ A aplicação estará disponível em seu navegador (geralmente em `http://localh
 
 ## Deploy
 
-Você pode acessar o projeto em: 
+Você pode acessar o projeto em: https://product-management-dashboard-one.vercel.app/
